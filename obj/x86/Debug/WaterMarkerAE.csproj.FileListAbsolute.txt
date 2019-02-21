@@ -1,0 +1,7 @@
+E:\03.数据生成工具\13.影像水印\01.代码\WaterMarkerAE\WaterMarkerAE\WaterMarkerAE\bin\Debug\WaterMarkerAE.exe
+E:\03.数据生成工具\13.影像水印\01.代码\WaterMarkerAE\WaterMarkerAE\WaterMarkerAE\bin\Debug\WaterMarkerAE.pdb
+E:\03.数据生成工具\13.影像水印\01.代码\WaterMarkerAE\WaterMarkerAE\WaterMarkerAE\obj\x86\Debug\WaterMarkerAE.WaterMarkerEmbed.resources
+E:\03.数据生成工具\13.影像水印\01.代码\WaterMarkerAE\WaterMarkerAE\WaterMarkerAE\obj\x86\Debug\WaterMarkerAE.Properties.Resources.resources
+E:\03.数据生成工具\13.影像水印\01.代码\WaterMarkerAE\WaterMarkerAE\WaterMarkerAE\obj\x86\Debug\WaterMarkerAE.csproj.GenerateResource.Cache
+E:\03.数据生成工具\13.影像水印\01.代码\WaterMarkerAE\WaterMarkerAE\WaterMarkerAE\obj\x86\Debug\WaterMarkerAE.exe
+E:\03.数据生成工具\13.影像水印\01.代码\WaterMarkerAE\WaterMarkerAE\WaterMarkerAE\obj\x86\Debug\WaterMarkerAE.pdb
